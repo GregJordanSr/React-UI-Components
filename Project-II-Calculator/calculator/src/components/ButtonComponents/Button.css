@@ -1,0 +1,40 @@
+.btn {
+    height: 94px;
+    border: 1px solid #979797;
+    text-align: center;
+    font-size: 42px;
+    padding-top: 25px;
+    cursor: pointer;
+
+}
+.btn:hover {
+    box-shadow: inset -5px -5px orangered, inset 5px 5px 50px blue;
+}
+
+.num {
+    width: 112px;
+}
+
+.clear, .zero {
+    width: 336px;
+}
+
+.func {
+    background: #a0001a;
+    color: white;
+    width: 118px;
+    font-size: 58px;
+    padding-top: 15px;
+
+}
+
+.white-btns {
+    display: flex;
+    flex-wrap: wrap-reverse;
+
+}
+
+.red-btns {
+    display: flex;
+    flex-direction: column;
+}
