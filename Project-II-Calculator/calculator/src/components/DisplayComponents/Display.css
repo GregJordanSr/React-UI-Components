@@ -1,9 +1,10 @@
 .display {
-    border: 1px solid #979797;
-    width: 454px;
-    height: 126px;
-    background: #222222;
-    color: white;
+    background: #086344;
+    border: 1px solid #086344;
+    width: 373px;
+    height: 100px;
+    background: #086344;
+    color: green;
     font-weight: 100;
     font-size: 64px;
     padding: 32px 14px;

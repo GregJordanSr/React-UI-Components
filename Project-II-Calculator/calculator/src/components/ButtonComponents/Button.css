@@ -12,17 +12,17 @@
 }
 
 .num {
-    width: 112px;
+    width: 100px;
 }
 
 .clear, .zero {
-    width: 336px;
+    width: 300px;
 }
 
 .func {
     background: #a0001a;
     color: white;
-    width: 118px;
+    width: 100px;
     font-size: 58px;
     padding-top: 15px;
 
